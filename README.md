@@ -17,7 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wifon0902&theme=react&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wifon0902&icon=1&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=wifon0902&icon=1&color=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
