@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/igor.kazior.5) 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,ps,php,&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,ps,php,&theme=light)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wifon0902&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=wifon0902&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
