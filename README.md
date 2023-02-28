@@ -4,7 +4,7 @@
 
 #
 
-##🤝 Connect with me:
+## 🤝 Connect with me:
 ![Contact](https://skillicons.dev/icons?i=instagram,discord,linkedin&theme=light)
 
 ## 💫 About Me:
