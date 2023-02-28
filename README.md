@@ -1,5 +1,7 @@
 <img src="https://i.imgur.com/jk5Ei6C.png" alt="banner">
 
+Hi i'm [typed string0="Igor Kazior" string1="wifon" typeSpeed="40" startDelay="0" backSpeed="40" backDelay="1000" loop="1"]
+
 # 💫 About Me:
 🔭 I’m currently working on Portfolio Website<br>🌱 I’m currently learning Javascript<br>👨‍💻 All of my projects are available at https://github.com/wifon0902<br>📫 How to reach me kaziorigor0902@gmail.com
 
