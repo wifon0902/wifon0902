@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/jk5Ei6C.png" alt="banner">
+<img src="https://i.imgur.com/JZEVdhC.png" alt="banner">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=C095FF&width=435&lines=Hi+I'm+wifon)
 
