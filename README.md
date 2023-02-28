@@ -2,8 +2,16 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=C095FF&width=435&lines=Hi+I'm+wifon)
 
+#
+
+##🤝 Connect with me:
+![Contact](https://skillicons.dev/icons?i=instagram,discord,linkedin&theme=light)
+
 ## 💫 About Me:
-🔭 I’m currently working on Portfolio Website<br>🌱 I’m currently learning Javascript<br>👨‍💻 All of my projects are available at https://github.com/wifon0902<br>📫 How to reach me kaziorigor0902@gmail.com
+🔭 I’m currently working on Portfolio Website<br>
+🌱 I’m currently learning Javascript<br>
+👨‍💻 All of my projects are available at https://github.com/wifon0902<br>
+📫 How to reach me kaziorigor0902@gmail.com
 
 
 ## 🌐 Socials:
