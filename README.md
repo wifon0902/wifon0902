@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/jk5Ei6C.png" alt="banner">
 
-Hi 🦖 I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=CC9FFF&center=true&width=435&lines=Igor+Kazior;wifon)](https://git.io/typing-svg)
+Hi 🦖 I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C095FF&width=435&lines=Igor+Kazior;wifon)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on Portfolio Website<br>🌱 I’m currently learning Javascript<br>👨‍💻 All of my projects are available at https://github.com/wifon0902<br>📫 How to reach me kaziorigor0902@gmail.com
