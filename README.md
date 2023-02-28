@@ -1,29 +1,23 @@
-<h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+https://i.imgur.com/jk5Ei6C.png
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wifon0902&label=Profile%20views&color=0e75b6&style=flat" alt="wifon0902" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on Portfolio Website<br>🌱 I’m currently learning Javascript<br>👨‍💻 All of my projects are available at https://github.com/wifon0902<br>📫 How to reach me kaziorigor0902@gmail.com
 
-- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Javascript**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/igor.kazior.5) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/wifon0902](https://github.com/wifon0902)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wifon0902&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wifon0902&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wifon0902&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **kaziorigor0902@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=wifon0902&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/igor.kazior.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor.kazior.5" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wifon0902&show_icons=true&locale=en&layout=compact" alt="wifon0902" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wifon0902&show_icons=true&locale=en" alt="wifon0902" /></p><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wifon0902&" alt="wifon0902" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **wifon0902/wifon0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
