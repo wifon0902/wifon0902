@@ -1,11 +1,7 @@
-<img src="https://i.imgur.com/JZEVdhC.png" alt="banner">
+<img src="https://i.imgur.com/JZEVdhC.png" alt="banner"><br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=C095FF&width=435&lines=Hi+I'm+wifon)
 
-#
-
-## 🤝 Connect with me:
-![Contact](https://skillicons.dev/icons?i=instagram,discord,linkedin&theme=light)
 
 ## 💫 About Me:
 🔭 I’m currently working on Portfolio Website<br>
