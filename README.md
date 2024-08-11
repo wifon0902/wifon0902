@@ -14,10 +14,6 @@
 
 ## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,ps,php,&theme=light)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wifon0902&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=wifon0902&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wifon0902&theme=react&hide_border=true)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=wifon0902&icon=1&color=1)
