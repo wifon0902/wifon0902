@@ -4,7 +4,3 @@
 I’m currently learning React<br>
 All of my projects are available at https://github.com/wifon0902<br>
 How to reach me kaziorigor0902@gmail.com
-
-
----
-![](https://visitcount.itsvg.in/api?id=wifon0902&icon=1&color=1)
