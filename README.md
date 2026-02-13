@@ -3,4 +3,4 @@
 
 I’m currently learning React<br>
 All of my projects are available at https://github.com/wifon0902<br>
-How to reach me kaziorigor0902@gmail.com
+How to reach me ikazior@icloud.com
