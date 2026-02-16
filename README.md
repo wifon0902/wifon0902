@@ -2,5 +2,5 @@
 
 
 I’m currently learning React<br>
-All of my projects are available at https://github.com/wifon0902<br>
+All of my projects are available at https://github.com/wifoon<br>
 Reach me at ikazior@icloud.com
