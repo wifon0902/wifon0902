@@ -11,5 +11,5 @@ $ echo "Let's connect!" | mail ikazior@icloud.com
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4C64FF&height=1&section=header" width="100%"/><br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,docker,githubactions,git,aws,gcp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,react,typescript,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,terraform,git,windows,linux,docker,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,react,typescript,php,mysql,java)](https://skillicons.dev)
